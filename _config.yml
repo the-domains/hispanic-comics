@@ -1,18 +1,30 @@
-layout_spectrum: 0.5665013692341745
-typography_spectrum: 0.008978418540209532
+author:
+  name: Tilmann Altenberg
+  email: AltenbergTG@cardiff.ac.uk
+  url: www.hispanic-comics.net
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 color:
+  saturation: 0.2489362
   brandStrength: 0.9240420346613973
-  lightness: 0.4751837288495153
-  saturation: 0.640544704394415
-  rhythmicContrast: 0.9487783424556255
+  lightness: 0.7361702
   brandColors:
     - '#F7EDF0'
     - '#F4CBC6'
     - '#F4AFAB'
     - '#F4EEA9'
     - '#F4F482'
+  rhythmicContrast: 0.9487783
+typography_spectrum: 0.008978418540209532
+layout_spectrum: 0.7659575
 name: Hispanic Comics
-author:
-  name: Tilmann Altenberg
-  email: AltenbergTG@cardiff.ac.uk
-  url: www.hispanic-comics.net
