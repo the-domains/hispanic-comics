@@ -8,23 +8,23 @@ collections:
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
+    permalink:
+      path: '/:title/'
+typography_spectrum: 0.008978418540209532
 color:
-  saturation: 0.2489362
-  brandStrength: 0.9240420346613973
+  saturation: 0.400653
+  brandStrength: 0.764459
   lightness: 0.7361702
   brandColors:
-    - '#F7EDF0'
-    - '#F4CBC6'
-    - '#F4AFAB'
-    - '#F4EEA9'
-    - '#F4F482'
-  rhythmicContrast: 0.9487783
-typography_spectrum: 0.008978418540209532
-layout_spectrum: 0.7659575
+    - '#FFFFFF'
+    - '#080808'
+    - '#8B8C87'
+    - '#5F615E'
+    - '#C2C3BD'
+  rhythmicContrast: 0.5601679
+layout_spectrum: 0.7831157
 name: Hispanic Comics
